@@ -1,0 +1,6 @@
+name,email,city
+Asha Rao,asha@example.com,Mumbai
+Ravi Patil,ravi@example.com,Pune
+Meera Shah,meera@example.com,Panvel
+Bad Row Without Email,not-an-email,Delhi
+Karan Mehta,karan@example.com,Nashik
